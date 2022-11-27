@@ -23,6 +23,7 @@ useEffect(() => {
                     <td>{datas.symbol}</td>
                     <td>{datas.current_price}</td>
                     <td>{datas.total_volume}</td>
+                    
                     </tr>
                 </tbody>
           
